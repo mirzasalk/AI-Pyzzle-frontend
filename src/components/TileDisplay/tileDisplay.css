@@ -1,0 +1,26 @@
+.mainDisplayDiv {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+  width: 100%;
+}
+.konzola {
+  margin-top: 10px;
+  color: white;
+  width: 80%;
+  height: 25vh;
+  background-color: black;
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  padding: 3px 0 0 7px;
+  overflow-y: scroll;
+}
+.no-outline:focus {
+  outline: none;
+}
+.divici {
+  background-color: rebeccapurple;
+}

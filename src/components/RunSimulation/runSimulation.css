@@ -1,0 +1,24 @@
+.helperDiv {
+  width: 100%;
+}
+.runSimulationMain {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border-radius: 10px;
+  margin-bottom: 10px;
+}
+.formRun {
+  display: flex;
+  flex-direction: column;
+  width: 50%;
+}
+
+.formMenu {
+  display: flex;
+  margin-bottom: 7px;
+  justify-content: space-between;
+  width: 100%;
+}
