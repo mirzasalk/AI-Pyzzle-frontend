@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from "react";
 import axios from "axios";
 import "./runSimulation.css";
-import { UploadImageContext } from "../GlobalContexts/uploadImageContext";
+import { UploadImageContext } from "../GlobalContexts/UploadImageContext";
 import { useContext } from "react";
 
 const RunSimulation = () => {

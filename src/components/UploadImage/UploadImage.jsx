@@ -1,5 +1,5 @@
 import React, { useState, useContext, useEffect } from "react";
-import { UploadImageContext } from "../GlobalContexts/uploadImageContext";
+import { UploadImageContext } from "../GlobalContexts/UploadImageContext";
 import "./uploadImage.css";
 
 const ImagePuzzle = () => {
