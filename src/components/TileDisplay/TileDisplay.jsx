@@ -1,5 +1,5 @@
 import React, { useContext, useRef, useState } from "react";
-import { UploadImageContext } from "../GlobalContexts/uploadImageContext";
+import { UploadImageContext } from "../GlobalContexts/UploadImageContext";
 
 import { useEffect } from "react";
 import "./tileDisplay.css";
