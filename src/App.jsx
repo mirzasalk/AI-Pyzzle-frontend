@@ -3,7 +3,7 @@ import React from "react";
 import ImagePuzzle from "./components/UploadImage/UploadImage";
 import RunSimulation from "./components/RunSimulation/RunSimulation";
 import TileDisplay from "./components/TileDisplay/TileDisplay";
-import { UploadImageProvider } from "./components/GlobalContexts/uploadImageContext";
+import { UploadImageContext } from "./components/GlobalContexts/UploadImageContext";
 import "./App.css";
 import SimulationResult from "./components/SimulationResult";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
